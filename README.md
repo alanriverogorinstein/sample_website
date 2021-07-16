@@ -14,6 +14,6 @@ This should be another paragraph.
 
 ## The best H3 in the universe. ###
 
-<pre><code>Aw, yes, look at this code.</code></pr>
+<pre><code>Aw, yes, look at this code.</code></pre>
 
 Thank you.
